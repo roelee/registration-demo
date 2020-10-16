@@ -1,1 +1,1 @@
-# registration-demo
+# spring boot - demo
